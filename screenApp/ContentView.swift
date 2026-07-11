@@ -15,6 +15,10 @@ struct ContentView: View {
                 .foregroundStyle(.white)
                 .font(Font.largeTitle.bold())
         }
+        VStack{
+            Text("Aaqil")
+        }
+        
         .ignoresSafeArea()
     }
 }
