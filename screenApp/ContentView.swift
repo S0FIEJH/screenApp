@@ -16,7 +16,7 @@ struct ContentView: View {
                 .font(Font.largeTitle.bold())
         }
         VStack{
-            Text("Aaqil")
+            Text("plushie")
         }
         
         .ignoresSafeArea()
